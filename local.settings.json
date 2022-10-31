@@ -3,11 +3,11 @@
   "Values": {
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hgdevicetelemetrytotwinf;AccountKey=BPtqcfwucIXXFj3ePc53qCPwBYPSY1taVbsAbpKRt7GWjPqMdlIASEEDjuXNO16ArbpMTX2rRdchsTthgYFoxQ==;EndpointSuffix=core.windows.net",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "EVENTHUB_CONNECTIONSTRING": "Endpoint=sb://iothub-ns-hgiothub01-13673336-7c19495d6b.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=MtqqO2noCOC0Zy3MB12UBV48U3VYQWbh+qvzZdcJLWE=;EntityPath=hgiothub01",
+    "EVENTHUB_CONNECTIONSTRING": "Endpoint=sb://iothub-ns-XXXXyyyyZZZZwwww.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=XXXYYYabcdefgWWWWZZZZ;EntityPath=XXXXXX",
     "FUNCTIONS_EXTENSION_VERSION": "~3",
-    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=hgdevicetelemetrytotwinf;AccountKey=BPtqcfwucIXXFj3ePc53qCPwBYPSY1taVbsAbpKRt7GWjPqMdlIASEEDjuXNO16ArbpMTX2rRdchsTthgYFoxQ==;EndpointSuffix=core.windows.net",
-    "WEBSITE_CONTENTSHARE": "hgdevicetelemetrytotwinfunca1d30c",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=YSNXYESaaabbb;AccountKey=abcdefsgihsixis;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "ZZZYYYXXXCCCCC",
     "WEBSITE_RUN_FROM_PACKAGE": "1",
-    "APPINSIGHTS_INSTRUMENTATIONKEY": "3ae31b93-a8ff-422d-9dae-b244ad10cccd"
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "zzzyyyxxxccccc"
   }
 }
